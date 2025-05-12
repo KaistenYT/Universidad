@@ -2,4 +2,3 @@
 
 la base de datos de una tienda hecha por kai stenbjorn
 
-gran parte del codigo esta comentada ir descomentando para ir usando
